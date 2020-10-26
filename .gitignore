@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/semantic
+semantic.so
+semantic.dylib
+semantic.dll
+semantic.a
+semantic.lib
+semantic-test-*
+*.exe
+*.o
+*.obj
+*.lst
